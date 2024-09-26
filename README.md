@@ -20,4 +20,4 @@ As a newbie to the programming world, I was happy with my progress during the Pi
 
 I was also very pleased to be able to help my colleagues, explaining concepts that I had just learned.
 
-I am thrilled to become a cadet at 42 and hope this helps new pisciners out there!
+I am thrilled to become a cadet at 42 and hope this helps new pisciners out there! ✨
